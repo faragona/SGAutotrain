@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         SG Autotrain
-// @namespace    http://faragona.com/
-// @version      0.1
+// @namespace    https://github.com/faragona/SGAutotrain
+// @version      1.0
 // @description  try to take over the GAs!
 // @author       Faragona
 // @match        http://www.steamgifts.com/giveaway/*
+// @downloadURL  https://raw.githubusercontent.com/faragona/SGAutotrain/SGAutotrain.user.js
 // @grant        none
 // ==/UserScript==
 /* jshint -W097 */
